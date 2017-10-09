@@ -1,0 +1,1 @@
+function quchong1(r){for(var n=[],o=0;o<r.length;o++)-1==n.indexOf(r[o])&&n.push(r[o]);return n}function quchong2(r){for(var n=[],o=0;o<r.length;o++)-1==n.indexOf(r[o])&&n.push(r[o]);return n}var arr=["6","5","4","8","8","2","2","8"];console.log(quchong1(arr));var arr=["6","5","4","8","8","2","2","8"];console.log(quchong2(arr));
